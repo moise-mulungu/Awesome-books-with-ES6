@@ -9,7 +9,7 @@
 
 > This my awesome books project using modules to separate JavaScript files into small chunks. 
 
-![screenshot](img/screenShot.png).
+![screenshot](awesome-book-img/awesome-book.png).
 
 ## Built With
 
@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[github page](https://github.com/moise-mulungu/my-awesome-books-modules)
+[github page](https://github.com/moise-mulungu/Awesome-books-with-ES6/tree/create-es6-branch)
 
 [live demo](http://127.0.0.1:5500/index.html)
 
@@ -29,7 +29,7 @@
 
 To get a local copy of this app you can use :
 ```
-git clone  https://github.com/moise-mulungu/my-awesome-books-modules
+git clone  https://github.com/moise-mulungu/Awesome-books-with-ES6/tree/create-es6-branch
 ```
 To make how it works, use live-server from your local.
 
@@ -48,7 +48,7 @@ in this app, you can open three different pages, with an update time which runs 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/moise-mulungu/my-awesome-books-modules/issues).
+Feel free to check the [issues page](https://github.com/moise-mulungu/Awesome-books-with-ES6/issues).
 
 
 ## Show your support
