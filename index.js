@@ -22,3 +22,7 @@ document.getElementById('addButton').addEventListener('click', () => {
 const navItems = new Navigation();
 
 logo.addEventListener('click', navItems.homePage);
+
+window.addEventListener('load', () => {
+  listSection.style.display = 'block'
+})

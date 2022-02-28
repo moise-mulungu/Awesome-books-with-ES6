@@ -29,9 +29,11 @@
 
 To get a local copy of this app you can use :
 ```
-git clone  https://github.com/moise-mulungu/Awesome-books-with-ES6/tree/create-es6-branch
+git clone  https://github.com/moise-mulungu/Awesome-books-with-ES6.git
 ```
-To make how it works, use live-server from your local.
+To see how it works on the Browser, use live-server from your editor.
+
+For your luxon packages to work, run npm install.
 
 in this app, you can open three different pages, with an update time which runs perfectly, when you add a book it automatically adds itself on the list.
 

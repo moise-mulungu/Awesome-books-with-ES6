@@ -16,7 +16,7 @@ export default class BookList {
     }
   }
 
-  displayInfo() {
+  displayInfo = () => {
     if (JSON.parse(localStorage.getItem('bookList'))) {
       this.bookList = JSON.parse(localStorage.getItem('bookList'));
       const bookShelf = document.getElementById('bookShelf');
@@ -38,7 +38,7 @@ export default class BookList {
     }
   }
 
-  remove(index) {
+  remove = (index) => {
     this.bookList.splice(index, 1);
     localStorage.setItem('bookList', JSON.stringify(this.bookList));
     this.displayInfo();

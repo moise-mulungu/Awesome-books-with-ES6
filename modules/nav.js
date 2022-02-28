@@ -15,7 +15,7 @@ export class Navigation {
     this.home = document.getElementById('homePage');
   }
 
-  homePage() {
+  homePage = () => {
     this.addSection.style.display = 'none';
     this.listSection.style.display = 'none';
     this.contactSection.style.display = 'none';
