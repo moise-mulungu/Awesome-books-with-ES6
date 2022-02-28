@@ -54,3 +54,7 @@ contact.addEventListener('click', (event) => {
   addNew.style.color = 'black';
   event.target.style.color = 'rgb(59, 59, 190)';
 });
+
+window.addEventListener('load', () => {
+  listSection.style.display = 'block';
+});
