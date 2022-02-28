@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[github page](https://github.com/moise-mulungu/Awesome-books-with-ES6/tree/create-es6-branch)
+[github page](https://moise-mulungu.github.io/Awesome-books-with-ES6/)
 
 [live demo](http://127.0.0.1:5500/index.html)
 
