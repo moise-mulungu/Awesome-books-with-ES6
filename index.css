@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital@1&family=Smooch+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 h1,
 h2,
 p {
-  font-family: 'Akaya Telivigala', cursive;
+  font-family: 'Roboto Serif', sans-serif;
   text-align: center;
 }
 
@@ -34,18 +34,24 @@ p {
 }
 
 .removeButton {
-  font-family: 'Akaya Telivigala', cursive;
+  font-family: 'Lora', sans-serif;
   border: 1px solid #2d2d2d;
   box-shadow: 3px 5px;
   margin: 1%;
   background-color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
 }
 
 #addButton {
-  font-family: 'Akaya Telivigala', cursive;
+  font-family: 'Lora', sans-serif;
   background-color: white;
   border: 1px solid #2d2d2d;
   box-shadow: 3px 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
 }
 
 #bookShelf {
@@ -74,7 +80,7 @@ p {
 }
 
 .nav-item {
-  font-family: 'Akaya Telivigala', cursive;
+  font-family: 'Roboto Serif', sans-serif;
   padding: 5%;
   min-width: max-content;
   cursor: pointer;
